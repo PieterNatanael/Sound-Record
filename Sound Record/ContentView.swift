@@ -30,6 +30,7 @@ struct ContentView: View {
     
     @State private var showExplain: Bool = false
     
+    
     var body: some View {
         ZStack {
             // Background Gradient
