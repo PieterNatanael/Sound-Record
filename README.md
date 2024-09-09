@@ -3,9 +3,6 @@ At Sound Record, we prioritize your privacy. We do not collect, store, or share 
 If you have any questions or need support, feel free to reach out to us at pieternatanael@icloud.com.
 Thank you for using Sound Record!
 
-Here’s the **User Policy for Sound Record** translated into five major languages:
-
----
 
 Spanish (Español):
 
