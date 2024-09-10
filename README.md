@@ -52,3 +52,12 @@ Vielen Dank, dass Sie Sound Record verwenden!
 
 ---
 
+
+Bahasa Indonesia :
+
+Kebijakan Penggunaan untuk Sound Record
+Di Sound Record, privasi Anda adalah prioritas utama. Kami tidak mengumpulkan, menyimpan, atau membagikan data pribadi Anda. Semua rekaman dan aktivitas dalam aplikasi hanya disimpan di perangkat Anda.
+
+Jika Anda memiliki pertanyaan atau membutuhkan dukungan, jangan ragu untuk menghubungi kami di pieternatanael@icloud.com.
+Terima kasih telah menggunakan Sound Record!
+
