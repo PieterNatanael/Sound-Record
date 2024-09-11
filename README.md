@@ -61,3 +61,10 @@ Di Sound Record, privasi Anda adalah prioritas utama. Kami tidak mengumpulkan, m
 Jika Anda memiliki pertanyaan atau membutuhkan dukungan, jangan ragu untuk menghubungi kami di pieternatanael@icloud.com.
 Terima kasih telah menggunakan Sound Record!
 
+
+Sound Record の利用規約
+Sound Record では、プライバシーを最優先しています。お客様の個人データを収集、保存、共有することはありません。アプリ内のすべての録音や活動は、お客様のデバイス内にのみ保存されます。
+ご質問やサポートが必要な場合は、pieternatanael@icloud.com までお気軽にご連絡ください。
+Sound Record をご利用いただき、ありがとうございます！
+
+
