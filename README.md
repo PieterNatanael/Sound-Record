@@ -67,4 +67,13 @@ Sound Record では、プライバシーを最優先しています。お客様�
 ご質問やサポートが必要な場合は、pieternatanael@icloud.com までお気軽にご連絡ください。
 Sound Record をご利用いただき、ありがとうございます！
 
+Sound Record 사용자 정책
+
+Sound Record에서는 사용자의 개인정보 보호를 최우선으로 생각합니다. 저희는 사용자의 개인 데이터를 수집, 저장, 또는 공유하지 않습니다. 앱 내 모든 녹음 및 활동은 오직 사용자의 기기 내에서만 유지됩니다.
+
+질문이 있거나 지원이 필요하시면 pieternatanael@icloud.com으로 문의해 주세요.
+
+Sound Record를 사용해 주셔서 감사합니다!
+
+
 
