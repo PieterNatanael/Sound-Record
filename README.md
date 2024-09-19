@@ -76,4 +76,9 @@ Sound Record에서는 사용자의 개인정보 보호를 최우선으로 생각
 Sound Record를 사용해 주셔서 감사합니다!
 
 
+Polisi Pengguna untuk Sound Record
+Di Sound Record, kami mengutamakan privasi anda. Kami tidak mengumpul, menyimpan, atau berkongsi sebarang data peribadi anda. Semua rakaman dan aktiviti dalam aplikasi kekal sepenuhnya di peranti anda.
+Jika anda mempunyai sebarang pertanyaan atau memerlukan sokongan, sila hubungi kami di pieternatanael@icloud.com.
+Terima kasih kerana menggunakan Sound Record!
+
 
