@@ -82,3 +82,9 @@ Jika anda mempunyai sebarang pertanyaan atau memerlukan sokongan, sila hubungi k
 Terima kasih kerana menggunakan Sound Record!
 
 
+
+Patakaran ng Gumagamit para sa Sound Record
+Sa Sound Record, inuuna namin ang iyong privacy. Hindi namin kinokolekta, iniimbak, o ibinabahagi ang anumang personal na datos mo. Lahat ng mga recording at aktibidad sa loob ng app ay nananatiling nasa iyong device lamang.
+Kung may mga katanungan ka o kailangan ng suporta, huwag mag-atubiling makipag-ugnayan sa amin sa pieternatanael@icloud.com.
+Salamat sa paggamit ng Sound Record!
+
