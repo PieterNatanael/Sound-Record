@@ -88,3 +88,10 @@ Sa Sound Record, inuuna namin ang iyong privacy. Hindi namin kinokolekta, iniimb
 Kung may mga katanungan ka o kailangan ng suporta, huwag mag-atubiling makipag-ugnayan sa amin sa pieternatanael@icloud.com.
 Salamat sa paggamit ng Sound Record!
 
+
+
+
+Chính Sách Người Dùng cho Sound Record
+Tại Sound Record, chúng tôi ưu tiên sự riêng tư của bạn. Chúng tôi không thu thập, lưu trữ hay chia sẻ bất kỳ dữ liệu cá nhân nào của bạn. Tất cả các bản ghi âm và hoạt động trong ứng dụng đều chỉ tồn tại trên thiết bị của bạn.
+Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi qua email pieternatanael@icloud.com.
+Cảm ơn bạn đã sử dụng Sound Record!
