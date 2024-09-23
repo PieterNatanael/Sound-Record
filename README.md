@@ -89,6 +89,11 @@ Kung may mga katanungan ka o kailangan ng suporta, huwag mag-atubiling makipag-u
 Salamat sa paggamit ng Sound Record!
 
 
+Sound Record 用户政策
+在 Sound Record，我们重视您的隐私。我们不会收集、存储或分享您的任何个人数据。所有录音和应用内的活动都仅保存在您的设备上。
+如果您有任何问题或需要支持，请随时通过 pieternatanael@icloud.com 与我们联系。
+感谢您使用 Sound Record！
+
 
 
 Chính Sách Người Dùng cho Sound Record
