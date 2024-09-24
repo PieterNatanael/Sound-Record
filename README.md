@@ -100,3 +100,8 @@ Chính Sách Người Dùng cho Sound Record
 Tại Sound Record, chúng tôi ưu tiên sự riêng tư của bạn. Chúng tôi không thu thập, lưu trữ hay chia sẻ bất kỳ dữ liệu cá nhân nào của bạn. Tất cả các bản ghi âm và hoạt động trong ứng dụng đều chỉ tồn tại trên thiết bị của bạn.
 Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi qua email pieternatanael@icloud.com.
 Cảm ơn bạn đã sử dụng Sound Record!
+
+声音记录用户政策
+在声音记录，我们非常重视您的隐私。我们不会收集、存储或共享您的任何个人数据。所有录音和应用程序中的活动仅保留在您的设备上。
+如果您有任何问题或需要支持，请随时通过 pieternatanael@icloud.com 联系我们。
+感谢您使用声音记录！
