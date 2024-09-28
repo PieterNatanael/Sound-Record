@@ -110,3 +110,12 @@ Politique de l'utilisateur pour Sound Record
 Chez Sound Record, nous accordons une grande importance à votre vie privée. Nous ne collectons, stockons ni ne partageons aucune de vos données personnelles. Tous les enregistrements et activités dans l'application restent exclusivement sur votre appareil.
 Si vous avez des questions ou besoin d'assistance, n'hésitez pas à nous contacter à l'adresse pieternatanael@icloud.com.
 Merci d'utiliser Sound Record !
+
+
+Patakaran ng Gumagamit para sa Sound Record
+
+Sa Sound Record, inuuna namin ang iyong privacy. Hindi kami nangongolekta, nag-iimbak, o nagbabahagi ng anumang personal na impormasyon mo. Lahat ng mga recording at aktibidad sa loob ng app ay nananatili lamang sa iyong device.
+
+Kung mayroon kang mga katanungan o kailangan ng suporta, huwag mag-atubiling makipag-ugnayan sa amin sa pieternatanael@icloud.com.
+
+Salamat sa paggamit ng Sound Record!
