@@ -106,6 +106,17 @@ Cảm ơn bạn đã sử dụng Sound Record!
 如果您有任何问题或需要支持，请随时通过 pieternatanael@icloud.com 联系我们。
 感谢您使用声音记录！
 
+
+
+
+
+سياسة المستخدم لتطبيق تسجيل الصوت  
+في تطبيق تسجيل الصوت، نولي خصوصيتك أهمية قصوى. نحن لا نجمع أو نخزن أو نشارك أيًا من بياناتك الشخصية. جميع التسجيلات والأنشطة داخل التطبيق تبقى على جهازك فقط.  
+إذا كان لديك أي استفسار أو تحتاج إلى دعم، لا تتردد في التواصل معنا عبر البريد الإلكتروني: pieternatanael@icloud.com  
+شكرًا لاستخدامك تطبيق تسجيل الصوت!
+
+
+
 Politique de l'utilisateur pour Sound Record
 Chez Sound Record, nous accordons une grande importance à votre vie privée. Nous ne collectons, stockons ni ne partageons aucune de vos données personnelles. Tous les enregistrements et activités dans l'application restent exclusivement sur votre appareil.
 Si vous avez des questions ou besoin d'assistance, n'hésitez pas à nous contacter à l'adresse pieternatanael@icloud.com.
