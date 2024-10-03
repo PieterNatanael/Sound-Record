@@ -123,6 +123,9 @@ Si vous avez des questions ou besoin d'assistance, n'hésitez pas à nous contac
 Merci d'utiliser Sound Record !
 
 
+
+
+
 Patakaran ng Gumagamit para sa Sound Record
 
 Sa Sound Record, inuuna namin ang iyong privacy. Hindi kami nangongolekta, nag-iimbak, o nagbabahagi ng anumang personal na impormasyon mo. Lahat ng mga recording at aktibidad sa loob ng app ay nananatili lamang sa iyong device.
@@ -130,3 +133,11 @@ Sa Sound Record, inuuna namin ang iyong privacy. Hindi kami nangongolekta, nag-i
 Kung mayroon kang mga katanungan o kailangan ng suporta, huwag mag-atubiling makipag-ugnayan sa amin sa pieternatanael@icloud.com.
 
 Salamat sa paggamit ng Sound Record!
+
+
+
+W Sound Record priorytetem jest Twoja prywatność. Nie zbieramy, nie przechowujemy ani nie udostępniamy żadnych Twoich danych osobowych. Wszystkie nagrania i działania w aplikacji pozostają wyłącznie na Twoim urządzeniu.
+
+Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, skontaktuj się z nami pod adresem: pieternatanael@icloud.com.
+
+Dziękujemy za korzystanie z Sound Record!
