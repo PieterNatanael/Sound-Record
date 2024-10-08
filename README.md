@@ -138,6 +138,8 @@ Salamat sa paggamit ng Sound Record!
 
 
 
+
+
 W Sound Record priorytetem jest Twoja prywatność. Nie zbieramy, nie przechowujemy ani nie udostępniamy żadnych Twoich danych osobowych. Wszystkie nagrania i działania w aplikacji pozostają wyłącznie na Twoim urządzeniu.
 
 Jeśli masz jakiekolwiek pytania lub potrzebujesz wsparcia, skontaktuj się z nami pod adresem: pieternatanael@icloud.com.
