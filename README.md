@@ -135,7 +135,10 @@ Kung mayroon kang mga katanungan o kailangan ng suporta, huwag mag-atubiling mak
 Salamat sa paggamit ng Sound Record!
 
 
-
+Politique d'utilisation de Sound Record
+Chez Sound Record, nous accordons une grande importance à votre vie privée. Nous ne collectons, stockons ni partageons vos données personnelles. Tous les enregistrements et activités au sein de l'application restent uniquement sur votre appareil.
+Si vous avez des questions ou avez besoin d'assistance, n'hésitez pas à nous contacter à l'adresse pieternatanael@icloud.com.
+Merci d'utiliser Sound Record !
 
 
 
